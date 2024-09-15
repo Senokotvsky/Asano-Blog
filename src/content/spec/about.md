@@ -1,9 +1,25 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# 关于网站
+**Asano-blog** ,或称 **盈尘小站** ，分享有意思的事物。  
+**盈尘小站** 和 **Asano** 这两个名字其实都是我一拍脑袋排列组合起的。
+   
+      
 
-::github{repo="saicaca/fuwari"}
+# 关于我
+如边栏所称，一位在读高校生。我想知道这个网站的多半已经在其他平台（线下，RIA 社群）了解过我，因此不再赘述。   
+   
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+
+# 图片来源
+若无特别说明，博客内的摄影图片均为我本人拍摄。  
+   
+
+目前的博客头图来源：[Pixiv@ksmtk79](https://www.pixiv.net/artworks/109487164)  
+目前的头像图片来源：[X岛#*50035282*](https://www.nmbxd.com/t/50035282)   
+  
+# 鸣谢
+在部署过程中[@Magma](https://magma.ink)和番剧群的群友帮了我很多，十分感谢。  
+精神支柱：小梦老师  
+
+© 2024 谢星霖. 
+
+
