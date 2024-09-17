@@ -38,6 +38,10 @@ export const navBarConfig: NavBarConfig = {
   links: [
     LinkPreset.Home,
     LinkPreset.Archive,
+    {
+      name: "联系",
+      url: "/contact/",
+    },
     LinkPreset.About,
     
   ],
