@@ -2,14 +2,16 @@
 
 import { profileConfig } from '../config'
 import { url } from '../utils/url-utils'
+const days = new Date().getTime() - new Date("2024/10/01").getTime();
+const numberOfDays = (days / (1000 * 60 * 60 * 24)).toFixed();
 ---
 
 <div class="card-base max-w-[var(--page-width)] min-h-[4.5rem] rounded-b-none mx-auto flex items-center px-6">
     <div class="transition text-50 text-sm">
-        © 2024 {profileConfig.name}.
+        © 2024 {profileConfig.name}。 本站已运行{numberOfDays}天。
         <br>
-        本站的所有文章、界面（有另外声明的除外）均在署名—非商业性使用—禁止演绎 4.0 协议国际版
-        <a class="link text-[var(--primary)] font-medium" target="_blank" href="">(CC BY-NC-ND 4.0)</a>
+        本站的所有文章、界面（有另外声明的除外）均在 署名-非商业性使用-相同方式共享 4.0 国际版
+        <a class="link text-[var(--primary)] font-medium" target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans">(CC BY-NC-SA 4.0)</a>
         许可协议下提供。 
         <br>
         Powered by
